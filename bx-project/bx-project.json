@@ -1,14 +1,8 @@
 {
   "name": "Bx-Project",
+  "title_th":"อัพเดทใหม่ !!",
+  "title_en":"Update",
   "version":"0.1.5",
-  "detail": [
-    "new api",
-    "new",
-    "new"
-  ],
- "img":[
-   "img",
-   "img"
-   ]
-
+  "detail_th": "- เพิ่มราคาตลาด coinmarketcap.com\n- Fixed Bugs",
+  "detail_en": "- add coinmarketcap.com market \n- Fixed Bugs"
 }
